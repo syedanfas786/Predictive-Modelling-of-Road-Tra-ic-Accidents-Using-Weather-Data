@@ -41,7 +41,7 @@ To replicate or extend the analysis, follow these steps:
 4. **Run the Analysis**:
    Execute the main analysis script:
    ```R
-   source("analysis_script.R")
+   source("Accidents_prediction.R")
    ```
 
 ## Results
