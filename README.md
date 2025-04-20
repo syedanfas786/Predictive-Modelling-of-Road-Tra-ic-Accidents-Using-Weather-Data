@@ -18,31 +18,6 @@ This project develops a predictive model to analyze the influence of weather con
 - **ggplot2**: Library for data visualization.
 - **mgcv**: Library for fitting Generalized Additive Models.
 
-## Getting Started
-
-To replicate or extend the analysis, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/Predictive-Modelling-of-Road-Traffic-Accidents-Using-Weather-Data.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd Predictive-Modelling-of-Road-Traffic-Accidents-Using-Weather-Data
-   ```
-
-3. **Install Required Packages**:
-   Ensure you have R installed along with the necessary packages:
-   ```R
-   install.packages(c("dplyr", "tidyr", "ggplot2", "mgcv"))
-   ```
-
-4. **Run the Analysis**:
-   Execute the main analysis script:
-   ```R
-   source("Accidents_prediction.R")
-   ```
 
 ## Results
 
